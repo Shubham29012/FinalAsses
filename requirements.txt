@@ -1,0 +1,9 @@
+streamlit==1.33.0
+pandas
+numpy
+matplotlib
+scikit-learn
+librosa
+torch
+torchaudio
+scipy
