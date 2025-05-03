@@ -54,7 +54,7 @@ def save_user_db():
 
 # App title and configuration
 st.set_page_config(
-    page_title="Speech Enhancement System",
+    page_title="Aural Mind",
     page_icon="🎙️",
     layout="wide",
     initial_sidebar_state="expanded"
